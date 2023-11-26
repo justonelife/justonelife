@@ -1,6 +1,6 @@
 ### Hi there 👋
 - This is me working on decorating my git profile.
-- ![image](https://github.com/justonelife/justonelife/assets/51232550/024a6e33-a294-40b7-ab5f-1c855e6e66e0) I'm currently working as a front-end developer.
+- 💻 I'm currently working as a front-end developer.
 
 
 <!--
